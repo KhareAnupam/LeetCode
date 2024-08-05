@@ -1,0 +1,5 @@
+// Problem: K-th Symbol in Grammar
+// Date: Aug 05, 2024 01:55 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/k-th-symbol-in-grammar
+
