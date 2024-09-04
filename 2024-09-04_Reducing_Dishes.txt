@@ -1,0 +1,5 @@
+// Problem: Reducing Dishes
+// Date: Sep 04, 2024 01:54 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/reducing-dishes
+
