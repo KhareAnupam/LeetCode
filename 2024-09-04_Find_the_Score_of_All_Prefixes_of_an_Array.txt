@@ -1,0 +1,5 @@
+// Problem: Find the Score of All Prefixes of an Array
+// Date: Sep 04, 2024 01:54 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array
+
