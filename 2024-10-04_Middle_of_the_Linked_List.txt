@@ -1,0 +1,5 @@
+// Problem: Middle of the Linked List
+// Date: Oct 04, 2024 01:54 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/middle-of-the-linked-list
+
