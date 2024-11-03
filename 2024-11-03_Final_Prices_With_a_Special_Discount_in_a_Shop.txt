@@ -1,0 +1,5 @@
+// Problem: Final Prices With a Special Discount in a Shop
+// Date: Nov 03, 2024 01:54 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop
+
