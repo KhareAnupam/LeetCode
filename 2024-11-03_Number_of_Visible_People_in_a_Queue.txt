@@ -1,0 +1,5 @@
+// Problem: Number of Visible People in a Queue
+// Date: Nov 03, 2024 01:54 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/number-of-visible-people-in-a-queue
+
