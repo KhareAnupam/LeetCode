@@ -1,0 +1,5 @@
+// Problem: Find Maximum Number of String Pairs
+// Date: Jan 02, 2025 01:53 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/find-maximum-number-of-string-pairs
+
