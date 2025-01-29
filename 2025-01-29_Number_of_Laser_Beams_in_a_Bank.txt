@@ -1,0 +1,5 @@
+// Problem: Number of Laser Beams in a Bank
+// Date: Jan 29, 2025 01:55 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/number-of-laser-beams-in-a-bank
+
