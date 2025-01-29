@@ -1,0 +1,5 @@
+// Problem: Check if a String Is an Acronym of Words
+// Date: Jan 29, 2025 01:55 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words
+
