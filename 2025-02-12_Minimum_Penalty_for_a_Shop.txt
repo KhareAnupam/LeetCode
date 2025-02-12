@@ -1,0 +1,5 @@
+// Problem: Minimum Penalty for a Shop
+// Date: Feb 12, 2025 01:54 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/minimum-penalty-for-a-shop
+
