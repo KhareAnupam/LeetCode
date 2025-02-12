@@ -1,0 +1,5 @@
+// Problem: Running Sum of 1d Array
+// Date: Feb 12, 2025 01:54 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/running-sum-of-1d-array
+
