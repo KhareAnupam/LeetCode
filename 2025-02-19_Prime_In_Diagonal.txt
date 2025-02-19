@@ -1,0 +1,5 @@
+// Problem: Prime In Diagonal
+// Date: Feb 19, 2025 01:54 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/prime-in-diagonal
+
