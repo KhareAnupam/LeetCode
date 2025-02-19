@@ -1,0 +1,5 @@
+// Problem: Grumpy Bookstore Owner
+// Date: Feb 19, 2025 01:54 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/grumpy-bookstore-owner
+
