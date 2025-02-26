@@ -1,0 +1,5 @@
+// Problem: Delete the Middle Node of a Linked List
+// Date: Feb 26, 2025 01:54 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list
+
