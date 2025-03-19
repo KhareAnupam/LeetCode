@@ -1,0 +1,5 @@
+// Problem: Count Nice Pairs in an Array
+// Date: Mar 19, 2025 01:53 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/count-nice-pairs-in-an-array
+
