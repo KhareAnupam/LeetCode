@@ -1,0 +1,5 @@
+// Problem: Amount of Time for Binary Tree to Be Infected
+// Date: Mar 19, 2025 01:53 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected
+
