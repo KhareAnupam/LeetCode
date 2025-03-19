@@ -1,0 +1,5 @@
+// Problem: Check If Array Pairs Are Divisible by k
+// Date: Mar 19, 2025 01:53 AM
+// Language: cpp
+// Link: https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k
+
