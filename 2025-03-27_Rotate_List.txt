@@ -1,0 +1,22 @@
+// Problem: Rotate List
+// Date: Mar 27, 2025 02:10 AM
+// Language: cpp
+// Runtime: 0 ms
+// Link: https://leetcode.com/problems/rotate-list
+
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) 
+{}
+ * };
+ */
+class Solution {
+public:
+    ListNode* rotateRight(ListNode* head, int k) {
+            }
+};
