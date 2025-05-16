@@ -25,21 +25,21 @@ public:
         int m = mat[0].size();
         vector<vector<int>> vis(n,vector<int>(m,0));
         for(int i=0;i<n;i++){
-            if(mat[i][0]=='O'){
+            if(!vis[i][0] && mat[i][0]=='O'){
                 vis[i][0]=1;
                 dfs(i,0,mat,vis);
             }
-            if(mat[i][m-1]=='O'){
+            if(!vis[i][m-1] && mat[i][m-1]=='O'){
                 vis[i][m-1]=1;
                 dfs(i,m-1,mat,vis);
             }
         }
         for(int j=0;j<m;j++){
-            if(mat[0][j]=='O'){
+            if(!vis[0][j] && mat[0][j]=='O'){
                 vis[0][j]=1;
                 dfs(0,j,mat,vis);
             }
-            if(mat[n-1][j]=='O'){
+            if(!vis[n-1][j] && mat[n-1][j]=='O'){
                 vis[n-1][j]=1;
                 dfs(n-1,j,mat,vis);
             }
