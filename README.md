@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/KhareAnupam/LeetCode/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/KhareAnupam/LeetCode/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/KhareAnupam/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Depth-First Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/KhareAnupam/LeetCode/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/KhareAnupam/LeetCode/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/KhareAnupam/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/KhareAnupam/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Union Find
@@ -53,9 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/KhareAnupam/LeetCode/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/KhareAnupam/LeetCode/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/KhareAnupam/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/KhareAnupam/LeetCode/tree/master/0801-is-graph-bipartite) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/KhareAnupam/LeetCode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
