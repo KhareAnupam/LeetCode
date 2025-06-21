@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KhareAnupam/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/KhareAnupam/LeetCode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/KhareAnupam/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/KhareAnupam/LeetCode/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/KhareAnupam/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/KhareAnupam/LeetCode/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/KhareAnupam/LeetCode/tree/master/0542-01-matrix) |
 ## Topological Sort
 |  |
