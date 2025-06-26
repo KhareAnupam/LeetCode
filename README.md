@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KhareAnupam/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/KhareAnupam/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/KhareAnupam/LeetCode/tree/master/0224-basic-calculator) |
 | [3227-find-missing-and-repeated-values](https://github.com/KhareAnupam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KhareAnupam/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/KhareAnupam/LeetCode/tree/master/0224-basic-calculator) |
 ## Design
 |  |
