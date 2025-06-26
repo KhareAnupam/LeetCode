@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/KhareAnupam/LeetCode/tree/master/0048-rotate-image) |
 | [0224-basic-calculator](https://github.com/KhareAnupam/LeetCode/tree/master/0224-basic-calculator) |
+| [3227-find-missing-and-repeated-values](https://github.com/KhareAnupam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/KhareAnupam/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KhareAnupam/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/KhareAnupam/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [3227-find-missing-and-repeated-values](https://github.com/KhareAnupam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/KhareAnupam/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KhareAnupam/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/KhareAnupam/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [3227-find-missing-and-repeated-values](https://github.com/KhareAnupam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KhareAnupam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/KhareAnupam/LeetCode/tree/master/0127-word-ladder) |
+| [3227-find-missing-and-repeated-values](https://github.com/KhareAnupam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
