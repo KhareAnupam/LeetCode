@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/KhareAnupam/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/KhareAnupam/LeetCode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/KhareAnupam/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/KhareAnupam/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/KhareAnupam/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/KhareAnupam/LeetCode/tree/master/0053-maximum-subarray) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KhareAnupam/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/KhareAnupam/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/KhareAnupam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/KhareAnupam/LeetCode/tree/master/0130-surrounded-regions) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KhareAnupam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/KhareAnupam/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/KhareAnupam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/KhareAnupam/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/KhareAnupam/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -171,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KhareAnupam/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/KhareAnupam/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
