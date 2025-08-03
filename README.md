@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/KhareAnupam/LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/KhareAnupam/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KhareAnupam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KhareAnupam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/KhareAnupam/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/KhareAnupam/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/KhareAnupam/LeetCode/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/KhareAnupam/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/KhareAnupam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/KhareAnupam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -190,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/KhareAnupam/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/KhareAnupam/LeetCode/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/KhareAnupam/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KhareAnupam/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KhareAnupam/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
