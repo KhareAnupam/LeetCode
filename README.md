@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/KhareAnupam/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/KhareAnupam/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/KhareAnupam/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KhareAnupam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KhareAnupam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/KhareAnupam/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/KhareAnupam/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KhareAnupam/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/KhareAnupam/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/KhareAnupam/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhareAnupam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/KhareAnupam/LeetCode/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/KhareAnupam/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
