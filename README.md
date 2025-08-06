@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/KhareAnupam/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/KhareAnupam/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/KhareAnupam/LeetCode/tree/master/0224-basic-calculator) |
+| [0257-binary-tree-paths](https://github.com/KhareAnupam/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/KhareAnupam/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/KhareAnupam/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/KhareAnupam/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/KhareAnupam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0801-is-graph-bipartite](https://github.com/KhareAnupam/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/KhareAnupam/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/KhareAnupam/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/KhareAnupam/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/KhareAnupam/LeetCode/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/KhareAnupam/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/KhareAnupam/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhareAnupam/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KhareAnupam/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/KhareAnupam/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/KhareAnupam/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -235,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhareAnupam/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KhareAnupam/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/KhareAnupam/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/KhareAnupam/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
