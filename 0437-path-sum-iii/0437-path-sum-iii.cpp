@@ -22,16 +22,19 @@ public:
         helper(root->right,targetSum,sum, count);
         
     }
-    void helper2(TreeNode* root, int targetSum, int &count){
-        if(root==NULL) return ;
-        helper(root,targetSum,0,count);
-        helper2(root->left,targetSum,count);
-        helper2(root->right,targetSum,count);
+    // void helper2(TreeNode* root, int targetSum, int &count){
+    //     if(root==NULL) return ;
+    //     helper(root,targetSum,0,count);
+    //     helper2(root->left,targetSum,count);
+    //     helper2(root->right,targetSum,count);
         
-    }
+    // }
     int pathSum(TreeNode* root, int targetSum) {
+        if(root==NULL) return 0;
         int count=0;
-        helper2(root,targetSum, count);
+        helper(root,targetSum,0, count);
+        count+= pathSum(root->left,targetSum);
+        count+= pathSum(root->right,targetSum);
         return count;
 
     }
