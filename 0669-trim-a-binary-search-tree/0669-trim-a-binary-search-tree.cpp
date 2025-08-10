@@ -17,8 +17,8 @@ public:
         if(root->val >high) return trimBST(root->left,low,high);
         while(root->left && root->left->val < low) root->left= root->left->right;
         while(root->right && root->right->val > high) root->right = root->right->left;
-         trimBST(root->left,low,high);
-         trimBST(root->right,low,high);
+        trimBST(root->left,low,high);
+        trimBST(root->right,low,high);
         return root;
     }
 };
