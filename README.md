@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KhareAnupam/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/KhareAnupam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/KhareAnupam/LeetCode/tree/master/0437-path-sum-iii) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/KhareAnupam/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,4 +260,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KhareAnupam/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/KhareAnupam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/KhareAnupam/LeetCode/tree/master/0437-path-sum-iii) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/KhareAnupam/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/KhareAnupam/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
