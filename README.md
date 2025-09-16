@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/KhareAnupam/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/KhareAnupam/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KhareAnupam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [2573-remove-nodes-from-linked-list](https://github.com/KhareAnupam/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KhareAnupam/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/KhareAnupam/LeetCode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/KhareAnupam/LeetCode/tree/master/0224-basic-calculator) |
+| [2573-remove-nodes-from-linked-list](https://github.com/KhareAnupam/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KhareAnupam/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/KhareAnupam/LeetCode/tree/master/0146-lru-cache) |
+| [2573-remove-nodes-from-linked-list](https://github.com/KhareAnupam/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/KhareAnupam/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [2573-remove-nodes-from-linked-list](https://github.com/KhareAnupam/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Queue
 |  |
 | ------- |
