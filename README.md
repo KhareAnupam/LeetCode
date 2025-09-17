@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/KhareAnupam/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/KhareAnupam/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KhareAnupam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/KhareAnupam/LeetCode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KhareAnupam/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KhareAnupam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/KhareAnupam/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0860-design-circular-queue](https://github.com/KhareAnupam/LeetCode/tree/master/0860-design-circular-queue) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/KhareAnupam/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/KhareAnupam/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/KhareAnupam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0860-design-circular-queue](https://github.com/KhareAnupam/LeetCode/tree/master/0860-design-circular-queue) |
 | [1073-number-of-enclaves](https://github.com/KhareAnupam/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KhareAnupam/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/KhareAnupam/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KhareAnupam/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/KhareAnupam/LeetCode/tree/master/0146-lru-cache) |
+| [0860-design-circular-queue](https://github.com/KhareAnupam/LeetCode/tree/master/0860-design-circular-queue) |
 | [2573-remove-nodes-from-linked-list](https://github.com/KhareAnupam/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Doubly-Linked List
 |  |
