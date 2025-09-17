@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/KhareAnupam/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/KhareAnupam/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KhareAnupam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/KhareAnupam/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2573-remove-nodes-from-linked-list](https://github.com/KhareAnupam/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/KhareAnupam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/KhareAnupam/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0860-design-circular-queue](https://github.com/KhareAnupam/LeetCode/tree/master/0860-design-circular-queue) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/KhareAnupam/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Array
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/KhareAnupam/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KhareAnupam/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/KhareAnupam/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/KhareAnupam/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3227-find-missing-and-repeated-values](https://github.com/KhareAnupam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Depth-First Search
 |  |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/KhareAnupam/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/KhareAnupam/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
