@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/KhareAnupam/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/KhareAnupam/LeetCode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/KhareAnupam/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0649-dota2-senate](https://github.com/KhareAnupam/LeetCode/tree/master/0649-dota2-senate) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/KhareAnupam/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KhareAnupam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/KhareAnupam/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/KhareAnupam/LeetCode/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/KhareAnupam/LeetCode/tree/master/0860-design-circular-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/KhareAnupam/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Array
@@ -301,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/KhareAnupam/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/KhareAnupam/LeetCode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
