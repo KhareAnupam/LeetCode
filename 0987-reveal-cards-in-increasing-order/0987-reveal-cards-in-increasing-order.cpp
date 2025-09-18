@@ -10,7 +10,6 @@ public:
         vector<int>ans(n);
         int i=0;
         while(q.size()>0){
-            // ans.push_back(deck[q.front()]); q.pop();
             int idx = q.front();
             ans[idx]= deck[i++]; q.pop();
             q.push(q.front()); q.pop();
