@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KhareAnupam/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/KhareAnupam/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/KhareAnupam/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/KhareAnupam/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/KhareAnupam/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/KhareAnupam/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/KhareAnupam/LeetCode/tree/master/0053-maximum-subarray) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KhareAnupam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/KhareAnupam/LeetCode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/KhareAnupam/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/KhareAnupam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KhareAnupam/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/KhareAnupam/LeetCode/tree/master/0127-word-ladder) |
