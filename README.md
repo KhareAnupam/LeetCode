@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/KhareAnupam/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/KhareAnupam/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/KhareAnupam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/KhareAnupam/LeetCode/tree/master/0645-set-mismatch) |
 | [0860-design-circular-queue](https://github.com/KhareAnupam/LeetCode/tree/master/0860-design-circular-queue) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/KhareAnupam/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1073-number-of-enclaves](https://github.com/KhareAnupam/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/KhareAnupam/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/KhareAnupam/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/KhareAnupam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/KhareAnupam/LeetCode/tree/master/0645-set-mismatch) |
 | [3227-find-missing-and-repeated-values](https://github.com/KhareAnupam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -207,11 +209,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KhareAnupam/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/KhareAnupam/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/KhareAnupam/LeetCode/tree/master/0229-majority-element-ii) |
+| [0645-set-mismatch](https://github.com/KhareAnupam/LeetCode/tree/master/0645-set-mismatch) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/KhareAnupam/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KhareAnupam/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/KhareAnupam/LeetCode/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
