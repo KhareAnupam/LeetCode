@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/KhareAnupam/LeetCode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/KhareAnupam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/KhareAnupam/LeetCode/tree/master/0649-dota2-senate) |
+| [0696-count-binary-substrings](https://github.com/KhareAnupam/LeetCode/tree/master/0696-count-binary-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KhareAnupam/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/KhareAnupam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KhareAnupam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0696-count-binary-substrings](https://github.com/KhareAnupam/LeetCode/tree/master/0696-count-binary-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
