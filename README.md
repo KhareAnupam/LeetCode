@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/KhareAnupam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/KhareAnupam/LeetCode/tree/master/0649-dota2-senate) |
 | [0696-count-binary-substrings](https://github.com/KhareAnupam/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/KhareAnupam/LeetCode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Stack
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhareAnupam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/KhareAnupam/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/KhareAnupam/LeetCode/tree/master/0542-01-matrix) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/KhareAnupam/LeetCode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Topological Sort
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KhareAnupam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/KhareAnupam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/KhareAnupam/LeetCode/tree/master/0645-set-mismatch) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/KhareAnupam/LeetCode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/KhareAnupam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
