@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KhareAnupam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/KhareAnupam/LeetCode/tree/master/0645-set-mismatch) |
 | [0860-design-circular-queue](https://github.com/KhareAnupam/LeetCode/tree/master/0860-design-circular-queue) |
+| [0977-squares-of-a-sorted-array](https://github.com/KhareAnupam/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/KhareAnupam/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1073-number-of-enclaves](https://github.com/KhareAnupam/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/KhareAnupam/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KhareAnupam/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KhareAnupam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/KhareAnupam/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/KhareAnupam/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/KhareAnupam/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/KhareAnupam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/KhareAnupam/LeetCode/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/KhareAnupam/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/KhareAnupam/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Bit Manipulation
 |  |
