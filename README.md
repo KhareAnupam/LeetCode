@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KhareAnupam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/KhareAnupam/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/KhareAnupam/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/KhareAnupam/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/KhareAnupam/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/KhareAnupam/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/KhareAnupam/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/KhareAnupam/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/KhareAnupam/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/KhareAnupam/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KhareAnupam/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KhareAnupam/LeetCode/tree/master/0287-find-the-duplicate-number) |
